@@ -1,0 +1,82 @@
+datafaser:
+  run:
+    plan:
+    - "load cards":
+      - load:
+          from:
+            file: "source/cards.csv"
+          to:
+            branch: "table of cards"
+      - load:
+          from:
+            file:
+              "source/card-template.svg"
+          to:
+            branch: "card template"
+    - "convert card table to objects":
+      - table:
+          from:
+            table:
+              branch: "table of cards"
+          to:
+            branch: "cards in Finnish"
+    - "change card field names":
+      - each:
+          from:
+            branch: "cards in Finnish"
+          to:
+            branch: "cards"
+          do:
+            change:
+              keys:
+                Aihe: subject
+                Alkuperä: area
+                Nimi: name
+                Vaikutus: text
+                Materiaalina: material
+                Edellyttää: requires
+                Vaikutustapa: scope
+    - "fill in template for each card":
+      - each:
+          from:
+            branch: "cards"
+          do:
+            fill:
+                to:
+                  branch: "print.{{key + 1}}-{{value.name}}"
+                template: "card template"
+      - each:
+          from:
+            branch:
+              "print"
+          do:
+            load:
+              to:
+                file: "target/cards/{{key}}.svg"
+                format: "text"
+print: {}
+schema:
+  definitions:
+    cards:
+      type: array
+      items:
+        type: object
+        items:
+          type: string
+    table:
+      type: array
+      items:
+        type: array
+        items:
+          type: string
+  properties:
+    table of cards: { "$ref": "#/definitions/table" }
+    cards in Finnish: { "$ref": "#/definitions/cards" }
+    cards: { "$ref": "#/definitions/cards" }
+    card template: { type: "string" }
+    print:
+      type: object
+      patternProperties:
+        '.*':
+          type: string
+

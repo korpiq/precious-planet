@@ -1,0 +1,112 @@
+Alkuperä,Materiaalina,Edellyttää,Aihe,Nimi,Vaikutustapa,Vaikutus
+Aloitus,heinä,,Puhdistus,Mekaaninen puhdistus,Pelaajakohtainen,Asumus voi valmistusvaiheessa puhdistaa yhden saasteen harmaalta laatalta jolla se itse on.
+Aloitus,heinä,,Puhdistus,Aaltosuodatus,Pelaajakohtainen,Asumus voi valmistusvaiheessa puhdistaa yhden saasteen vaaleansiniseltä laatalta jolla se itse on.
+Aloitus,heinä,,Puhdistus,Hiukkasupotin,Pelaajakohtainen,Asumus voi valmistusvaiheessa puhdistaa yhden saasteen tummansiniseltä laatalta jolla se itse on.
+Aloitus,heinä,,Puhdistus,Multaan sitominen,Pelaajakohtainen,Asumus voi valmistusvaiheessa puhdistaa yhden saasteen vaaleanvihreältä laatalta jolla se itse on.
+Aloitus,heinä,,Puhdistus,Puhdistava metsä,Pelaajakohtainen,Asumus voi valmistusvaiheessa puhdistaa yhden saasteen tummanvihreältä laatalta jolla se itse on.
+Aloitus,heinä,,Puhdistus,Mineralisointi,Pelaajakohtainen,Asumus voi valmistusvaiheessa puhdistaa yhden saasteen ruskealta laatalta jolla se itse on.
+Aloitus,malmi,,Ekosfäärin alkuperä,Maankaltainen,Yhteinen,"Vuoret ja kukkulat ovat elinkelvottomia, koska niillä ei ole ravinteita.
+1/3 todiste teorioille Tuntematon, Luotain Maasta ja Panspermia."
+Aloitus,malmi,,Ekosfäärin alkuperä,Pitkä evoluutio,Yhteinen,"Muut kuin ravitsevat alueet ovat elinkelvottomia, koska ne ovat voimakkaan emäksisiä.
+1/3 todiste teorioille Tuntematon, Panspermia ja Paikallinen DNA."
+Aloitus,malmi,,Ekosfäärin alkuperä,Vieras menneisyys,Yhteinen,"Syvä meri on elinkelvoton, koska siellä ei ole ravinteita.
+1/3 todiste teorioille Luotain Maasta, Muukalaiset ja Paikallinen DNA."
+Aloitus,malmi,,Ekosfäärin alkuperä,Muokkauksen jäljet,Yhteinen,"Vuoret ja syvä meri ovat elinkelvottomia, koska ne ovat hapettomia.
+1/3 todiste teorioille Luotain Maasta ja Muukalaiset."
+Aloitus,malmi,,Ekosfäärin alkuperä,Oudot elämänmuodot,Yhteinen,"Vuoret ja niityt ovat elinkelvottomia, koska niillä kehittyy myrkkyjä.
+1/3 todiste teorioille Tuntematon ja Muukalaiset."
+Aloitus,malmi,,Ekosfäärin alkuperä,Turhat geenit,Yhteinen,"Meri on elinkelvoton, koska se on hapeton.
+1/3 todiste teorioille Panspermia ja Paikallinen DNA."
+Tuntematon,,"Maankaltainen +
+Pitkä evoluutio +
+Oudot elämänmuodot",Ekosfäärin alkuperä,Tuntematon,Heti,Siniset laatat ravitsevat asukkaita.
+Luotain Maasta,,"Maankaltainen +
+Hapeton historia +
+Muokkauksen jäljet",Ekosfäärin alkuperä,Luotain Maasta,Heti,Vaaleanvihreät ja vaaleansiniset laatat ravitsevat asukkaita.
+Panspermia,,"Maankaltainen +
+Pitkä evoluutio +
+Turhat geenit",Ekosfäärin alkuperä,Panspermia,Heti,Vihreät laatat ravitsevat asukkaita.
+Muukalaiset,,"Hapeton historia +
+Muokkauksen jäljet +
+Oudot elämänmuodot",Ekosfäärin alkuperä,Muukalaiset,Heti,Ruskeat ja tummanvihreät laatat ravitsevat asukkaita.
+Paikallinen DNA,,"Pitkä evoluutio +
+Hapeton historia +
+Turhat geenit",Ekosfäärin alkuperä,Paikallinen DNA,Heti,Harmaat ja ruskeat laatat ravitsevat asukkaita.
+Aloitus,puu,,Auktoriteetti,Alkuperäinen tehtävä,Pelaajakohtainen,"Asumuksen voi siirtää laatalle, jolla siitä kuolee korkeintaan pelaajan muiden Auktoriteetti-korttien verran enemmän asukkaita kuin nykyisellä.
+Muulloin tämän pelaajan menettäessä asukkaita niitä kuolee samasta paikasta 1 enemmän, jos mahdollista."
+Aloitus,hiekka,,Auktoriteetti,Välttämätön voima,Pelaajakohtainen,"Kun samalla laatalla on useampia asumuksia, pelaaja voi päättää, että
+hänen muiden Auktoriteetti-korttiensa verran hänen paikalla olevia asukkaitaan lasketaan asumukseksi toisille.
+Muulloin tämän pelaajan menettäessä asukkaita niitä kuolee samasta paikasta 1 enemmän, jos mahdollista."
+Aloitus,malmi,,Auktoriteetti,Meidän totuutemme,Pelaajakohtainen,"Menettäessään asumuksen, joka on yhteydessä toisen pelaajan asumukseen, pelaaja voi poistaa tämän pöydästä yhden kortin.
+Muulloin tämän pelaajan menettäessä asukkaita niitä kuolee samasta paikasta 1 enemmän, jos mahdollista."
+Aloitus,vesi,,Auktoriteetti,Lopullinen järjestys,Pelaajakohtainen,"Lopputavoite: Pelaajalla on asukkaita enemmän kuin muilla yhteensä, eikä pöydässä ole muita lopputavoitteita kuin Auktoriteetti."
+Aloitus,puu,,Kaukokaipuu,Yhteinen tavoite,Pelaajakohtainen,"Asumuksen voi siirtää laatalle, jolla siitä kuolee korkeintaan pelaajan Kaukokaipuu-korttien verran enemmän asukkaita kuin nykyisellä."
+Aloitus,hiekka,,Kaukokaipuu,Usko parempaan,Pelaajakohtainen,1 raketti voi toimia myös puutarhana kussakin asumuksessa.
+Aloitus,malmi,,Kaukokaipuu,Ymmärrettävä vaikeus,Pelaajakohtainen,Väestönlaskussa pelaajalta kuolee 1 asukas vähemmän.
+Aloitus,vesi,,Kaukokaipuu,Uusi alku,Pelaajakohtainen,"Lopputavoite: Kiertoradalla on pelaajien verran niin asukkaita, puutarhoja kuin rakettejakin."
+Aloitus,puu,,Pohdiskelu,Kokeilu,Pelaajakohtainen,Valmistamisvaiheessa yksi pelaajan asukas voi keräämisen sijaan kehittää yhden kortin kädestä pöytään.
+Aloitus,hiekka,,Pohdiskelu,Mahdollisuuksien kirjo,Pelaajakohtainen,Valmistamisvaiheessa yksi pelaajan asukas voi keräämisen sijaan tutkia yhden kortin nostopakasta käteen.
+Aloitus,malmi,,Pohdiskelu,Viisaus,Pelaajakohtainen,Valmistamisvaiheessa yksi pelaajan asukas voi keräämisen sijaan katsoa nostopakan päällimmäisen kortin ja laittaa sen pakan alle tai päälle.
+Aloitus,vesi,,Pohdiskelu,Tässä ja nyt,Pelaajakohtainen,Lopputavoite: Kahdella perättäisellä kierroksella asukkaiden määrä lisääntyy ja saasteen määrä vähenee.
+Aloitus,puu,,Tilannetaju,Elämä helpommaksi,Pelaajakohtainen,Valmistamisvaiheessa yksi pelaajan asukas voi keräämisen sijaan kehittää yhden kortin kädestä pöytään.
+Aloitus,hiekka,,Tilannetaju,Tarpeellinen uhraus,Pelaajakohtainen,"Asumuksen voi siirtää laatalle, jolla siitä kuolee korkeintaan 1 asukas enemmän kuin nykyisellä."
+Aloitus,malmi,,Tilannetaju,Turvallisuus ensin,Pelaajakohtainen,Väestönlaskussa pelaajalta kuolee pelaajan muiden Tilannetaju-korttien verran vähemmän asukkaita.
+Aloitus,vesi,,Tilannetaju,Tässä ja nyt,Pelaajakohtainen,Lopputavoite: Yhtään saastetta tai asukasta ei poistu eikä tule lisää kahden kierroksen aikana.
+Ekosfäärin alkuperä,vesi,,Saaste,Saastesuojaus,Pelaajakohtainen,Kussakin liikkuvassa asumuksessa yksi asukas säästyy saasteelta.
+Ekosfäärin alkuperä,heinä,Saastesuojaus,Saaste,Saasteenkäsittely,Pelaajakohtainen,Kussakin asumuksessa yksi asukas säästyy saasteelta.
+Ekosfäärin alkuperä,puu,Saasteenkäsittely,Saaste,Suljettu kierto,Pelaajakohtainen,Kussakin asumuksessa yksi asukas säästyy saasteelta tai toiselta asumukselta.
+Ekosfäärin alkuperä,hiekka,Suljettu kierto,Saaste,Uusiutuva kierto,Pelaajakohtainen,Saasteet eivät vaikuta asukasmääriin asumuksissa.
+Ekosfäärin alkuperä,malmi,Saastesuojaus,Puhdistus,Ennallistaminen,Pelaajakohtainen,Asumukset voivat puhdistaa muilla Puhdistus-korteilla yhden saasteen enemmän.
+Ekosfäärin alkuperä,vesi,jokin Pohdiskelu,Yhteishenki,Järkevyys,Pelaajakohtainen,Asumus voi kerätä materiaaleja ja valmistaa asioita samalla valmistustoiminnolla.
+Ekosfäärin alkuperä,heinä,jokin Tilannetaju,Yhteishenki,Ehkäisy,Pelaajakohtainen,"Asukkaiden voidessa lisääntyä pelaaja valitsee, lisääntyvätkö ne."
+Ekosfäärin alkuperä,puu,,Avaruustutkimus,Teleskooppiverkosto,Pelaajakohtainen,"Teleskooppiverkosto toimii, kun tähän korttiin osallistuvien pelaajien radion omaavat yksiköt on kussakin kartan kuudessa lohkossa."
+Luotain Maasta,heinä,Teleskooppiverkosto,Yhteys ulos,Neuvoja luotaimelta,Pelaajakohtainen,Valmistusvaiheessa toimivaan teleskooppiverkostoon osallistuvat pelaajat vastaanottavat nostopakan päältä yhden kortin kukin.
+Muukalaiset,puu,Teleskooppiverkosto,Yhteys ulos,Muukalaisten sijainti,Pelaajakohtainen,"Muukalaisten havaitseminen onnistuu, kun teleskooppiverkosto toimii."
+Muukalaiset,hiekka,Muukalaisten sijainti,Yhteys ulos,Muukalaiskieli,Pelaajakohtainen,"Muukalaisten viestien tulkitseminen onnistuu, kun heidät on havaittu."
+Muukalaiset,malmi,Muukalaiskieli,Yhteys ulos,Neuvoja muukalaisilta,Pelaajakohtainen,Valmistusvaiheessa toimivaan teleskooppiverkostoon osallistuvat Muukalaiskielen osaavat pelaajat vastaanottavat nostopakan päältä yhden kortin kukin.
+Ekosfäärin alkuperä,vesi,,Biologia,Puun biohajotus,Pelaajakohtainen,Puun kerääminen ei saastuta. 1/2 todiste teorioille Geobiologia ja Mutagaatio.
+Ekosfäärin alkuperä,heinä,,Biologia,Heinän biohajotus,Pelaajakohtainen,Heinän kerääminen ei saastuta. 1/2 todiste teorioille Geobiologia ja Mutagaatio.
+Ekosfäärin alkuperä,puu,,Biologia,Biomalmi,Pelaajakohtainen,Kerätessä 1 puu + 1 heinä = 1 malmi. 1/2 todiste teorioille Geobiologia ja Adaptologia
+Ekosfäärin alkuperä,hiekka,,Biologia,Biohiekka,Pelaajakohtainen,Kerätessä 1 puu + 1 heinä = 1 hiekka. 1/2 todiste teorialle Geobiologia ja Adaptologia
+Ekosfäärin alkuperä,malmi,,Biologia,Bioinformatiikka,Pelaajakohtainen,Asumus myrkkyjä kehittävällä laatalla estää sitä kehittämästä myrkkyjä. 1/2 todiste teorioille Mutagaatio ja Adaptologia.
+Ekosfäärin alkuperä,malmi,,Biologia,Ravintorikastus,Pelaajakohtainen,"Asumus kumoaa ravinteettomuuden laatalla, jolla on. 1/2 todiste teorioille Mutagaatio ja Adaptologia."
+Ekosfäärin alkuperä,vesi,,Nanoteknologia,Hienometalli,Pelaajakohtainen,Teräksen valmistaminen tuottaa 2 terästä yhden sijaan. 1/2 todiste teorialle Repronomiikka.
+Ekosfäärin alkuperä,heinä,,Nanoteknologia,Fulleroniikka,Pelaajakohtainen,Elektroniikan valmistaminen tuottaa 2 elektroniikkaa yhden sijaan. 1/2 todiste teorialle Repronomiikka.
+Ekosfäärin alkuperä,puu,,Nanoteknologia,Molekyylitaittelu,Pelaajakohtainen,Voit muuntaa rautaa teräkseksi. 1/2 todiste teorialle Repronomiikka.
+Ekosfäärin alkuperä,hiekka,,Nanoteknologia,Atomitiiviste,Pelaajakohtainen,Valmistusvaiheessa asumus voi muuntaa omalta laataltaan 2 saastetta yhdeksi. 1/2 todiste teorialle Repronomiikka.
+Ekosfäärin alkuperä,vesi,,Kvanttimekaniikka,Supraverkko,Pelaajakohtainen,Energian käytössä 1 energia riittää 2 tarpeeseen. 1/2 todiste teorialle Kenttäsystematiikka.
+Ekosfäärin alkuperä,heinä,,Kvanttimekaniikka,Kvanttiketjutus,Pelaajakohtainen,Voit muuntaa heinää vedeksi. 1/2 todiste teorialle Kenttäsystematiikka.
+Ekosfäärin alkuperä,puu,,Kvanttimekaniikka,Resonaattori,Pelaajakohtainen,Voit muuntaa vettä energiaksi. 1/2 todiste teorialle Kenttäsystematiikka.
+Ekosfäärin alkuperä,hiekka,,Kvanttimekaniikka,Tilaromautus,Pelaajakohtainen,Voit muuntaa malmia raudaksi. 1/2 todiste teorialle Kenttäsystematiikka.
+Geobiologia,vesi,,Geobiologia,Kukkulaviljely,Pelaajakohtainen,"Kukkulat ravitsevat väestönlaskussa, jos ne ovat elinkelpoisia ja veden vieressä."
+Geobiologia,heinä,,Geobiologia,Vuoristoviljely,Pelaajakohtainen,"Vuoristot ravitsevat väestönlaskussa, jos ne ovat elinkelpoisia ja veden vieressä."
+Geobiologia,puu,,Geobiologia,Metsäviljely,Pelaajakohtainen,"Metsät ravitsevat väestönlaskussa, jos ne ovat elinkelpoisia ja veden vieressä."
+Geobiologia,hiekka,,Geobiologia,Niittyviljely,Pelaajakohtainen,"Niityt ravitsevat väestönlaskussa, jos ne ovat elinkelpoisia ja veden vieressä."
+Geobiologia,malmi,Kukkulaviljely,Geobiologia,Hiekkamulta,Pelaajakohtainen,"Kukkulat ravitsevat väestönlaskussa, jos ne ovat elinkelpoisia."
+Geobiologia,malmi,Vuoristoviljely,Geobiologia,Niittyviljely,Pelaajakohtainen,"Vuoret ravitsevat väestönlaskussa, jos ne ovat elinkelpoisia."
+Ekosfäärin alkuperä,,,Tuuli,Korkepaine,Heti,"Pelaajat häviävät pelin yhdessä, jos saasteita on yli puolella laatoista; muutoin voittavat, jos asukkaita.
+Pelin jatkuessa kukin saaste siirtyy, jos voi, lähintä pelialueen reunaa kohti kunnes on ainoa saaste laatallaan."
+Ekosfäärin alkuperä,,,Tuuli,Pasaatituulet,Heti,"Pelaajat häviävät pelin yhdessä, jos saasteita on yli puolella laatoista; muutoin voittavat, jos asukkaita.
+Pelin jatkuessa kukin saaste siirtyy, jos voi, myötäpäivään samalla etäisyydellä pelialueen keskikohdasta,
+kunnes on ainoa saaste laatallaan."
+Ekosfäärin alkuperä,,Teleskooppiverkosto,Avaruustutkimus,Asteroidihavainto,Heti,"Seuraava toimivaan teleskooppiverkostoon osallistuva kiertoradalle lentäjä saa sinne ilmaiseksi asumuksen, jossa on 2 malmia.
+Tämä kortti poistetaan yhteisestä pöydästä kun teleskooppiverkosto ei ole toiminnassa tai kiertoradalle lennetään."
+Repronomiikka,vesi,,Repronomiikka,Hapen irrotus,Pelaajakohtainen,Asumus hapettomalla laatalla kumoaa sen hapettomuuden.
+Repronomiikka,heinä,,Repronomiikka,Toksiinileikkuri,Pelaajakohtainen,Asumus myrkkyjä kehittävällä laatalla estää sitä kehittämästä myrkkyjä.
+Repronomiikka,puu,,Repronomiikka,Ravintomonistin,Pelaajakohtainen,Väestönlaskussa kukin ravitseva laatta ravitsee 2 asukasta.
+Repronomiikka,hiekka,,Repronomiikka,Sarjapuhdistin,Pelaajakohtainen,Valmistusvaiheessa 1 asukas asumuksessa voi suorittaa Puhdistus-kortin toiminnon muiden tehdessä muuta.
+Kenttäsystematiikka,vesi,,Kenttäsystematiikka,Happamoittaminen,Pelaajakohtainen,Asumus voimakkaan emäksisellä laatalla kumoaa sen emäksisyyden.
+Kenttäsystematiikka,heinä,,Kenttäsystematiikka,Energisaatio,Pelaajakohtainen,Voimalaitos tuottaa kaksi energiaa kullakin kierroksella.
+Kenttäsystematiikka,puu,,Kenttäsystematiikka,Irtoäly,Pelaajakohtainen,Kunkin asumuksen sähköaivo voi toimia asukkaana muuten paitsi väestönlaskussa.
+Kenttäsystematiikka,hiekka,,Kenttäsystematiikka,Haittahajautus,Pelaajakohtainen,Valmistusvaihe tuottaa 1 saasteen vähemmän.
+Mutagaatio,vesi,Hapen irrotus,Mutagaatio,Happiformaatio,Yhteinen,Kumoaa vuoristojen hapettomuuden.
+Mutagaatio,heinä,Hapen irrotus,Mutagaatio,Happinesteytys,Yhteinen,Kumoaa merten hapettomuuden.
+Mutagaatio,puu,Happamoittaminen,Mutagaatio,Neutrobit,Yhteinen,Kumoaa maa-alueiden voimakkaan emäksisyyden.
+Mutagaatio,hiekka,Happamoittaminen,Mutagaatio,Nestehapetus,Yhteinen,Kumoaa merten voimakkaan emäksisyyden.
+Mutagaatio,malmi,Ravintorikastus,Mutagaatio,Ravinteerit,Yhteinen,Kumoaa maa-alueiden ravinteettomuuden.
+Mutagaatio,puu,Ravintorikastus,Mutagaatio,Pohjaravitsemus,Yhteinen,Kumoaa merten ravinteettomuuden.
+Mutagaatio,hiekka,,Mutagaatio,Detoksifungi,Yhteinen,Kumoaa myrkkyjen kehittymisen.
+Mutagaatio,malmi,,Mutagaatio,Aquapopulaatio,Yhteinen,Elinkelpoiset vesilaatat ravitsevat asukkaita.
+Adaptologia,hiekka,,Adaptologia,Aquagenia,Pelaajakohtainen,"Yhden asukkaan voi sijoittaa muutoin tyhjälle, ravitsevalle vesilaatalle."
+Adaptologia,hiekka,,Adaptologia,Adaptogenia,Pelaajakohtainen,"Yhden asukkaan voi sijoittaa muutoin tyhjälle, ravitsevalle maalaatalle."
+Adaptologia,malmi,,Adaptologia,Digestoadaptaatio,Pelaajakohtainen,Elinkelpoiset vihreät laatat ravitsevat asukkaita.
