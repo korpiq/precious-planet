@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>All Precious Planet Cards on one page</title>
+        <style>
+          img {
+              border: 1px solid #CCC;
+              margin: 0;
+          }
+        </style>
+    </head>
+
+    <body>
+        {% for title in print.keys() %}
+        <img src="cards/{{ title }}.svg" />
+        {% endfor %}
+    </body>
+</html>

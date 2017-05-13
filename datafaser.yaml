@@ -43,7 +43,7 @@ datafaser:
           do:
             fill:
                 to:
-                  branch: "print.{{key + 1}}-{{value.name}}"
+                  branch: "print.{{key + 1}}"
                 template: "card template"
       - each:
           from:
@@ -54,6 +54,23 @@ datafaser:
               to:
                 file: "target/cards/{{key}}.svg"
                 format: "text"
+    - "make a web page showing all cards for printing":
+      - load:
+          from:
+            file: "source/printable-all-cards-page.html"
+          to:
+            branch: "page template"
+      - fill:
+          from:
+            branch: ""
+          to:
+            branch: "page"
+          template: "page template"
+      - load:
+          from:
+            branch: "page"
+          to:
+            file: "target/all-cards.html"
 print: {}
 schema:
   definitions:
@@ -74,6 +91,8 @@ schema:
     cards in Finnish: { "$ref": "#/definitions/cards" }
     cards: { "$ref": "#/definitions/cards" }
     card template: { type: "string" }
+    page template: { type: "string" }
+    page: { type: "string" }
     print:
       type: object
       patternProperties:
