@@ -16,5 +16,5 @@ Usage
 Produce printable cards for the game:
 
     source planet-dev-env/bin/activate
-    python datafaser --default-format=text datafaser.yml
+    python -m datafaser --default-format=text datafaser.yaml
 
