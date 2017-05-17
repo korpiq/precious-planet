@@ -19,19 +19,19 @@ Aloitus,malmi,,Ekosfäärin alkuperä,Turhat geenit,Yhteinen,"Meri on elinkelvot
 1/3 todiste teorioille Panspermia ja Paikallinen DNA."
 Tuntematon,,"Maankaltainen +
 Pitkä evoluutio +
-Oudot elämänmuodot",Ekosfäärin alkuperä,Tuntematon,Heti,Siniset laatat ravitsevat asukkaita.
+Oudot elämänmuodot",Ekosfäärin alkuperä,Tuntematon,Todistettaessa,Siniset laatat ravitsevat asukkaita.
 Luotain Maasta,,"Maankaltainen +
 Hapeton historia +
-Muokkauksen jäljet",Ekosfäärin alkuperä,Luotain Maasta,Heti,Vaaleanvihreät ja vaaleansiniset laatat ravitsevat asukkaita.
+Muokkauksen jäljet",Ekosfäärin alkuperä,Luotain Maasta,Todistettaessa,Vaaleanvihreät ja vaaleansiniset laatat ravitsevat asukkaita.
 Panspermia,,"Maankaltainen +
 Pitkä evoluutio +
-Turhat geenit",Ekosfäärin alkuperä,Panspermia,Heti,Vihreät laatat ravitsevat asukkaita.
+Turhat geenit",Ekosfäärin alkuperä,Panspermia,Todistettaessa,Vihreät laatat ravitsevat asukkaita.
 Muukalaiset,,"Hapeton historia +
 Muokkauksen jäljet +
-Oudot elämänmuodot",Ekosfäärin alkuperä,Muukalaiset,Heti,Ruskeat ja tummanvihreät laatat ravitsevat asukkaita.
+Oudot elämänmuodot",Ekosfäärin alkuperä,Muukalaiset,Todistettaessa,Ruskeat ja tummanvihreät laatat ravitsevat asukkaita.
 Paikallinen DNA,,"Pitkä evoluutio +
 Hapeton historia +
-Turhat geenit",Ekosfäärin alkuperä,Paikallinen DNA,Heti,Harmaat ja ruskeat laatat ravitsevat asukkaita.
+Turhat geenit",Ekosfäärin alkuperä,Paikallinen DNA,Todistettaessa,Harmaat ja ruskeat laatat ravitsevat asukkaita.
 Aloitus,puu,,Auktoriteetti,Alkuperäinen tehtävä,Pelaajakohtainen,"Asumuksen voi siirtää laatalle, jolla siitä kuolee korkeintaan pelaajan muiden Auktoriteetti-korttien verran enemmän asukkaita kuin nykyisellä.
 Muulloin tämän pelaajan menettäessä asukkaita niitä kuolee samasta paikasta 1 enemmän, jos mahdollista."
 Aloitus,hiekka,,Auktoriteetti,Välttämätön voima,Pelaajakohtainen,"Kun samalla laatalla on useampia asumuksia, pelaaja voi päättää, että
@@ -84,7 +84,7 @@ Geobiologia,puu,,Geobiologia,Metsäviljely,Pelaajakohtainen,"Metsät ravitsevat 
 Geobiologia,hiekka,,Geobiologia,Niittyviljely,Pelaajakohtainen,"Niityt ravitsevat väestönlaskussa, jos ne ovat elinkelpoisia ja veden vieressä."
 Geobiologia,malmi,Kukkulaviljely,Geobiologia,Hiekkamulta,Pelaajakohtainen,"Kukkulat ravitsevat väestönlaskussa, jos ne ovat elinkelpoisia."
 Geobiologia,malmi,Vuoristoviljely,Geobiologia,Niittyviljely,Pelaajakohtainen,"Vuoret ravitsevat väestönlaskussa, jos ne ovat elinkelpoisia."
-Ekosfäärin alkuperä,,,Tuuli,Korkepaine,Heti,"Pelaajat häviävät pelin yhdessä, jos saasteita on yli puolella laatoista; muutoin voittavat, jos asukkaita.
+Ekosfäärin alkuperä,,,Tuuli,Korkeapaine,Heti,"Pelaajat häviävät pelin yhdessä, jos saasteita on yli puolella laatoista; muutoin voittavat, jos asukkaita.
 Pelin jatkuessa kukin saaste siirtyy, jos voi, lähintä pelialueen reunaa kohti kunnes on ainoa saaste laatallaan."
 Ekosfäärin alkuperä,,,Tuuli,Pasaatituulet,Heti,"Pelaajat häviävät pelin yhdessä, jos saasteita on yli puolella laatoista; muutoin voittavat, jos asukkaita.
 Pelin jatkuessa kukin saaste siirtyy, jos voi, myötäpäivään samalla etäisyydellä pelialueen keskikohdasta,
